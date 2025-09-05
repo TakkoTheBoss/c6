@@ -49,5 +49,5 @@ C6 is intended as a living body of work. Contributions are welcome:
 
 ## License
 
-C6 is published under the [MIT License](LICENSE). You are free to use, adapt, and share with attribution.
+C6 is published under the [MIT License](LICENSE.md). You are free to use, adapt, and share with attribution.
 
